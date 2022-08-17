@@ -1,4 +1,4 @@
-## parameter
+## ignore case sensitivity
 
 ## match
 ### 문법
